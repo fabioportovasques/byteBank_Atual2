@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">796360262329-l48gt1sfq4bg16sdehug9tdif12jogo7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">796360262329</string>
+    <string name="google_api_key" translatable="false">AIzaSyDirq70FJefELhL5-kFy7tcm4neKXu2W-U</string>
+    <string name="google_app_id" translatable="false">1:796360262329:android:e5ebdbf53cd57670f41168</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDirq70FJefELhL5-kFy7tcm4neKXu2W-U</string>
+    <string name="google_storage_bucket" translatable="false">alura-crashlystcs.appspot.com</string>
+    <string name="project_id" translatable="false">alura-crashlystcs</string>
+</resources>

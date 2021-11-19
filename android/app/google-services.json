@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796360262329",
+    "project_id": "alura-crashlystcs",
+    "storage_bucket": "alura-crashlystcs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796360262329:android:e5ebdbf53cd57670f41168",
+        "android_client_info": {
+          "package_name": "br.com.alura.bytebank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796360262329-l48gt1sfq4bg16sdehug9tdif12jogo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDirq70FJefELhL5-kFy7tcm4neKXu2W-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796360262329-l48gt1sfq4bg16sdehug9tdif12jogo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
